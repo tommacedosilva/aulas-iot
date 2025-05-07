@@ -13,7 +13,7 @@
 
 ## Objetivos
     - Entender o funcionamento do github
-    - Aprender uso das planilhas para documentação e organização de situações
+    - Aprender uso das planilhas para organizar dados, automatizar diagnósticos simples e documentar falhas em sistemas IoT, com base nas etapas de solução de problemas do modelo Cisco.
 
 ## Material
     - Github
